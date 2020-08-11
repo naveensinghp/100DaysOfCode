@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "googlemerchandisestore"
+    }
+  },
+  "defaultProject": "googlemerchandisestore",
+  "cli": {
+    "analytics": "8d53f974-7ae2-4c26-a733-95d7810400ec"
+  }
 }
