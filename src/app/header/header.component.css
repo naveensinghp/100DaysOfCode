@@ -6,11 +6,16 @@
 }
 .btnalign{
     display: flex;
-    padding-left: 51%;
-
+    padding-left: 49%;
+    
     
 }
 
+.child-comp{
+    margin: 5px;
+    outline: none;
+    padding: .5em 2em;
+}
 
 #childimg{
     background-image: url(/assets/img/logo.png);
