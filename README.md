@@ -4,3 +4,5 @@
 
 **Day 2** : Learned How to perform CRUD operations Using MongoDB & Node.js on 
 https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
+
+**Day 3** : Brushed up with Basic concepts in nodejs  - **April 3 2021**
