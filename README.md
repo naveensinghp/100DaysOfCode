@@ -1,3 +1,8 @@
+<a href="http://100daysof.codes/" rel="nofollow">
+<img src="https://img.shields.io/badge/CHALLENGE-100%20DAYS%20OF%20CODE-green?style=for-the-badge" alt="Challenge" target="_blank"
+>
+</a>
+
 # 100DaysOfCode
 
 **Day 1** : Getting Started Learning nodejs - **April 1 2021**
