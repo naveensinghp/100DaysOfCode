@@ -1,11 +1,5 @@
-const add = require('./util')
-const notes = require('./notes')
+const validator = require('validator');
 
-// const sum = add(4,-2)
-// console.log(sum)
+console.log(validator)
 
-
-const getNotes = notes();
-
-console.log(getNotes)
-
+console.log('erri')
