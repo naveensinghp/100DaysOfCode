@@ -15,3 +15,13 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 **Day 4** : Written weekly blog on CRUD operation using nodejs <a href="https://naveensingh.dev/crud-operation-using-nodejs-utterly-for-beginners-level" target="_blank">Link</a> - **April 4 2021** 
 
 **Day 5** : Nodemon and Priniting Color in nodejs  - **April 5 2021**
+
+**Day 6** : Chalk Node Modules Testing  - **April 6 2021**
+
+**Day 7** : Passing Arugments Yargs - **April 7 2021**
+
+**Day 8** : Storing Data JSON - **April 8 2021**
+
+**Day 9** : Adding and Removing Notes in nodejs  - **April 9 2021**
+
+
