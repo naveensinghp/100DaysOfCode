@@ -24,4 +24,7 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 9** : Adding and Removing Notes in nodejs  - **April 9 2021**
 
+**Day 10** : Removing Notes in nodejs and Laravel DB Connection  - **April 10 2021**
+
+
 
