@@ -26,5 +26,8 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 10** : Removing Notes in nodejs and Laravel DB Connection  - **April 10 2021**
 
+**Day 11** : Sending SMS Message by using node js on https://www.youtube.com/watch?v=980wnspXLe0 - **April 11 2021**
+
+
 
 
