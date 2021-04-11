@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 11** : Sending SMS Message by using node js on https://www.youtube.com/watch?v=980wnspXLe0 - **April 11 2021**
 
+**Day 12** : Recipe App using Angular and MongoDB - **April 12 2021**
+
+
 
 
 
