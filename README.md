@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 12** : Recipe App using Angular and MongoDB - **April 12 2021**
 
+**Day 13** : Schema - **April 13 2021**
+
 
 
 
