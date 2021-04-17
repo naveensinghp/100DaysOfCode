@@ -38,6 +38,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 16** : Getting Started the Recipe App - **April 16 2021**
 
+**Day 17** : Header Section - **April 17 2021**
+
+
 
 
 
