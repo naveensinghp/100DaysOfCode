@@ -40,6 +40,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 17** : Header Section - **April 17 2021**
 
+**Day 18** : Written Blog Basic Router concepts in Angular application - **April 18 2021**
+
+
 
 
 
