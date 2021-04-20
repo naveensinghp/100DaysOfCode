@@ -44,6 +44,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 19** : Learned about Responsive Design - **April 19 2021**
 
+**Day 20** : Backend API - **April 20 2021**
+
+
 
 
 
