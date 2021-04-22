@@ -48,6 +48,8 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 21** : Fixed the trailing data issue in Laravel - **April 21 2021**
 
+**Day 22** : Solved Problems in Hacker Rank - **April 22 2021**
+
 
 
 
