@@ -54,6 +54,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 24** : Learned about Hybird Concepts in Angular - **April 24 2021**
 
+**Day 25** : Made an Alignment Changes in Recipe App - **April 24 2021**
+
+
 
 
 
