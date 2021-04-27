@@ -56,6 +56,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 25** : Made an Alignment Changes in Recipe App - **April 25 2021**
 
+**Day 26** : Added button active using ngClass in Recipe App Project - **April 26 2021**
+
+
 
 
 
