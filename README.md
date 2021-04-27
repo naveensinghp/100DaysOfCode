@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 26** : Added button active using ngClass in Recipe App Project - **April 26 2021**
 
+**Day 27** : Fixed Laravel DB Connection Issue - **April 27 2021**
+
 
 
 
