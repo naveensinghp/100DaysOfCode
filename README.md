@@ -60,6 +60,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 27** : Fixed Laravel DB Connection Issue - **April 27 2021**
 
+**Day 28** : Worked on API Server Connection - **April 28 2021**
+
+
 
 
 
