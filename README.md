@@ -72,6 +72,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 33** : Done Tweaks work on the Project - **May 3 2021**
 
+**Day 34** : Polymorphism Relationship in Elqouent  - **May 4 2021**
+
+
 
 
 
