@@ -80,6 +80,8 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 37** : Break - **May 7 2021**
 
+**Day 38** : Angular Crash Courses - **May 8 2021**
+
 
 
 
