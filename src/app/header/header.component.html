@@ -1,13 +1,7 @@
-
 <header>
-    <div class="imgcontainer"> <!--parentcontainer-->
-        <div class="right">
-            <img style="margin: 3px;" src="/assets/img/logo.png">
-        </div>
-        <div class="logotitle">for Education</div>
-        <div class="btnalign">
-            <button class="helpsales child-comp"> Get Help</button>
-            <button class="btn child-comp"> Contact Sales</button>
-        </div>
-    </div>
+    <h1>
+        {{title}} 
+    </h1>
+    <app-button color="{{ showAddTask ? 'red' : '#2196f3'}}" 
+    text="{{ showAddTask ? 'Close': 'Add'}}" (btnClick)="toggleAddTask()"></app-button>
 </header>
