@@ -82,6 +82,9 @@ https://www.youtube.com/watch?v=ayNI9Q84v8g&t=1868s - **April 2 2021**
 
 **Day 38** : Angular Crash Courses - **May 8 2021**
 
+**Day 39** : Angular Crash Courses - **May 9 2021**
+
+
 
 
 
